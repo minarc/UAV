@@ -2,11 +2,11 @@
 
 # UAV
 
-This UAV project was a my dream when I was student. There were countless failures to find drone materials. I remember printing parts one by one for a month with a free 3d printer at school in the heat of over 40 degrees. I made an airplane by learning 3D modeling myself, but I had no knowledge of airplane design, so I modeled the Spitfire from World War II.
+This UAV project has been a dream of mine since I was a student. I faced countless challenges, especially when it came to sourcing drone materials. I vividly remember spending a month, in over 40-degree heat, printing parts one by one using a free 3D printer at school. I taught myself 3D modeling to build an airplane, though I had no formal knowledge of aircraft design. As a result, I ended up modeling the iconic Spitfire from World War II.
 
-I wrote a dozens of pages of project plans, but the drone I worked hard on eventually disappeared across the river due to a bug in my GPS code.
+I drafted dozens of pages of project plans, but despite my efforts, the drone I worked so hard on tragically vanished across the river due to a bug in my GPS code.
 
-I'm a software engineer, but I was also very interested in this kind of hardware, but actually just making something is so much fun.
+Although I'm primarily a software engineer, I’ve always had a strong interest in hardware projects like this. The process of creating something from scratch has always been a source of pure joy for me.
 
 ![슬라이드1](https://user-images.githubusercontent.com/11865340/122322971-4e750000-cf61-11eb-91e1-d3019c95a820.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/11865340/122322962-4c12a600-cf61-11eb-8c57-b6ae768b992b.PNG)
